@@ -41,3 +41,10 @@ For Part2 [Click Here](https://drive.google.com/drive/folders/1LIcG13zID2ZapwGOt
 
 [Apache License 2.0](https://github.com/TejasARathod/Forest-Cop-Ter/blob/8c0443007f5f32f8ebacdb44778123a1b4634eaa/LICENSE)
 
+## Project Preview
+
+![](https://github.com/TejasARathod/Forest-Cop-Ter/blob/ad4953db7ba8376a7992fe2a0575075290728f01/2.png)
+![](https://github.com/TejasARathod/Forest-Cop-Ter/blob/ad4953db7ba8376a7992fe2a0575075290728f01/3.png)
+
+![](https://github.com/TejasARathod/Forest-Cop-Ter/blob/ad4953db7ba8376a7992fe2a0575075290728f01/1.png)
+
